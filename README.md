@@ -14,3 +14,6 @@ To use it :
 '''User user1 = UserBuilder(firstName: "Karim", lastName: "Adel")
       .setAge(age: 28)
       .buildUser();'''
+
+## Screenshots
+![Capture](https://github.com/user-attachments/assets/ad885863-f1f6-45a3-af55-0d1adce36609)
